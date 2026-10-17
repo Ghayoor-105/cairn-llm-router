@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Cairn: route every LLM request to the right model">
+  <rect width="1280" height="400" fill="#141413"/>
+  <g transform="translate(80 90) scale(2.1176)">
+    <rect width="34" height="34" rx="9" fill="#D97757"/>
+    <rect x="6" y="21" width="22" height="7" rx="3.5" fill="#FAF9F5"/>
+    <rect x="10" y="12.5" width="15" height="7" rx="3.5" fill="#FAF9F5"/>
+    <rect x="13.5" y="5" width="8" height="6.5" rx="3.25" fill="#FAF9F5"/>
+  </g>
+  <text x="170" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FAF9F5">cairn</text>
+  <text x="80" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#FAF9F5">Route every LLM request to the right model.</text>
+  <text x="80" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#B8B5AA">Cut cost. Keep quality. Prove the savings.</text>
+  <text x="80" y="332" font-family="Consolas, Menlo, monospace" font-size="16" fill="#E89B7D">FastAPI  ·  Python  ·  OpenAI-compatible API</text>
+
+  <rect x="760" y="60" width="440" height="280" rx="18" fill="#FAF9F5"/>
+  <text x="790" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="1" fill="#5F646A">VERIFIED SAVINGS</text>
+  <rect x="790" y="114" width="380" height="92" rx="12" fill="#B4512F"/>
+  <text x="812" y="174" font-family="Consolas, Menlo, monospace" font-size="40" fill="#FFF1E8">$76.42</text>
+  <polyline points="1010,190 1040,184 1070,186 1100,166 1130,160 1150,138" fill="none" stroke="#FFF1E8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="790" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#141413">Gemini Flash</text>
+  <rect x="930" y="238" width="190" height="8" rx="4" fill="#E6E2D6"/><rect x="930" y="238" width="116" height="8" rx="4" fill="#D97757"/>
+  <text x="1170" y="246" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#141413">61%</text>
+
+  <text x="790" y="271" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#141413">Claude Sonnet</text>
+  <rect x="930" y="263" width="190" height="8" rx="4" fill="#E6E2D6"/><rect x="930" y="263" width="51" height="8" rx="4" fill="#D97757"/>
+  <text x="1170" y="271" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#141413">27%</text>
+
+  <text x="790" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#141413">GPT-4.1</text>
+  <rect x="930" y="288" width="190" height="8" rx="4" fill="#E6E2D6"/><rect x="930" y="288" width="23" height="8" rx="4" fill="#D97757"/>
+  <text x="1170" y="296" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#141413">12%</text>
+
+  <text x="790" y="326" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#5F646A">Design preview with sample data</text>
+</svg>
